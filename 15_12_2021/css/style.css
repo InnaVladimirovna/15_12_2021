@@ -1,0 +1,78 @@
+/* index.html */
+
+/* div{
+    background-image: url("../img/0.png");
+    width: 1280px;
+    height: 946px;
+    position: relative;
+}
+div img{
+    position: absolute;
+}
+div img:nth-child(1){
+    bottom: 0;
+    z-index: 2;
+}
+div img:nth-child(2){
+    top: 339px;
+    left: 993px;
+}
+div img:nth-child(3){
+    top: 355px;
+    left: 792px;
+}
+div img:nth-child(4){
+    top: 551px;
+    left: 916px;
+}
+div img:nth-child(5){
+    top: 315px;
+    left: 246px;
+    z-index: 1;
+}
+div img:nth-child(6){
+    top: 176px;
+    left: 141px;
+} */
+
+/* index1.html */
+
+/* div{
+    width: 1280px;
+    height: 946px;
+    background:
+    url(../img/6.png)165px 234px no-repeat,
+    url(../img/4.png)900px 514px no-repeat,
+    url(../img/3.png)783px 312px no-repeat,
+    url(../img/2.png)967px 300px no-repeat,
+    url(../img/1.png)bottom left no-repeat, 
+    url(../img/5.png)315px 246px no-repeat,
+    url(../img/0.png) no-repeat;
+} */
+
+/* index2.html */
+
+/* h1{
+text-align: center;
+text-decoration: overline;
+letter-spacing: 5px;
+font-variant: small-caps;
+}
+p{
+    text-indent: 40px;
+    font-variant: small-caps;
+    text-align: justify;
+    line-height: 2;
+}
+p::first-letter{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: 30px;
+    float: inline-end;
+    line-height: 1;
+}
+h2{
+    text-align: center;
+    color: brown;
+    text-transform: uppercase;
+} */

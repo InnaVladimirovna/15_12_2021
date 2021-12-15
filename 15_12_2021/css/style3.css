@@ -1,0 +1,41 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    background: #6a4c75;
+    color: #eadce7;
+    width: 100px;
+    padding: 10px;
+    margin: 1px 0;
+}
+.podMenu{
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu1:hover{
+    background: #aa8ab3;
+}
+.menu1:hover .podMenu{
+    display: block;
+}
+.menu1{
+    position: relative;
+}
+.podMenu li{
+    background: #b7cbe2;
+}
+.podMenu li:hover{
+    background: #e9e8cb;
+}
+.podMenu li:hover a{
+    color: #868c22;
+}
